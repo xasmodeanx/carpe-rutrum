@@ -1,2 +1,2 @@
 # carpe-rutrum
-Unity Game - Digging Experiement
+Unity Game - Digging Experiment
