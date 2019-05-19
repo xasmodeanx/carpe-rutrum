@@ -8,4 +8,4 @@ Initial Build:
   Manually created player level
   Randomized block coloring
   Physics is abysmal, collisions and movement are terrible, no deaths
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/TLpMZxj1QNI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  [![Initial Build](https://img.youtube.com/vi/TLpMZxj1QNI/0.jpg)](https://www.youtube.com/watch?v=TLpMZxj1QNI)
