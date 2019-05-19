@@ -5,6 +5,7 @@ ScriptsOnlyBuild:
     - Mover
     - PlaneGenerator
     - ToggleGravityNearMe
+    - limitWorldRender
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.TestListCacheData
   sceneClasses:
@@ -44,9 +45,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9670}
     - Class: 114
-      Script: {instanceID: 10348}
+      Script: {instanceID: 9734}
     - Class: 114
-      Script: {instanceID: 10464}
+      Script: {instanceID: 10350}
+    - Class: 114
+      Script: {instanceID: 10466}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -536,6 +539,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 2c8031efcd574e2c74583246a841b22b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: limitWorldRender
   - hash:
       serializedVersion: 2
       Hash: b8a5e8091ab0b8861d2add371082c5e0
